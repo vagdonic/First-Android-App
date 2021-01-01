@@ -1,7 +1,7 @@
 # First-Android-App
-This is my First Android App using JAVA.
+## This is my First Android App using JAVA. ##
 
-There are 3 buttons namely, Toast, Count, Random.
+### There are 3 buttons namely: Toast, Count, Random. ###
 <br>
 Toast is a simple button to display a message.
 <br>
