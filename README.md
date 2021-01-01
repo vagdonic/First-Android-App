@@ -1,6 +1,4 @@
 # First-Android-App
-This is my First Android App using JAVA.
-
 There are 3 buttons namely: Toast, Count, Random.
 - Toast is a simple button to display a message.
 - On pressing the Count button, the number on the screen increasing by 1 starting with 0.
