@@ -3,11 +3,11 @@ This is my First Android App using JAVA.
 
 There are 3 buttons namely: Toast, Count, Random.
 <p>
-  <img src="https://user-images.githubusercontent.com/41104244/103435601-e478d080-4c36-11eb-994f-a97389d9e0da.png" width="300px">
+  <img src="https://user-images.githubusercontent.com/41104244/103435601-e478d080-4c36-11eb-994f-a97389d9e0da.png" width="250px">
 </p>
 - Toast is a simple button to display a message.
 <p align="center">
-  <img src="/Users/Manav/AndroidStudioProjects/TestApp/ss/Toast.png">
+  <img src="https://user-images.githubusercontent.com/41104244/103435668-e42d0500-4c37-11eb-9a22-6347ca5bfe05.png" width="250px">
 </p>
 - On pressing the Count button, the number on the screen increasing by 1 starting with 0.
 <p align="center">
