@@ -3,7 +3,7 @@ This is my First Android App using JAVA.
 
 There are 3 buttons namely: Toast, Count, Random.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41104244/103435601-e478d080-4c36-11eb-994f-a97389d9e0da.png">
+  <img src="https://user-images.githubusercontent.com/41104244/103435601-e478d080-4c36-11eb-994f-a97389d9e0da.png" width="100px">
 </p>
 - Toast is a simple button to display a message.
 <p align="center">
